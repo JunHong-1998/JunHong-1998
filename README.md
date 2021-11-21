@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JunHong-1998
-- 👀 I’m interested in Application developer & UIUX design
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Mathematics with Computer Graphics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jhlow1998@gmail.com
